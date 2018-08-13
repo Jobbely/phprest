@@ -1,5 +1,5 @@
 {
-    "name": "phprest/phprest",
+    "name": "Jobbely/phprest",
     "description": "Php Rest Framework.",
     "keywords": ["phprest", "framework", "micro", "rest", "restful", "api"],
     "license": "MIT",
